@@ -1,4 +1,4 @@
-# awadMerch
+# Ben Awad Merch Design
 
 ![Untitled-Artwork (3)](https://user-images.githubusercontent.com/17814498/119909176-43aaea80-bf22-11eb-8869-83c54dc1159a.jpg)
 
