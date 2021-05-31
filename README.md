@@ -2,7 +2,7 @@
 
 ## Back
 
-<img src="/BenFaang/backWithAngular.png" width="500"/>
+<img src="/BenFaang/backWithAngular.png" width="700"/>
 
 ## Front
 
@@ -10,7 +10,7 @@
 
 ## Full img of logo
 
-<img src="/BenFaang/full.png" width="500"/>
+<img src="/BenFaang/faangWithAngular.png" width="700"/>
 
 ## Angular Logo
 
