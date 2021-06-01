@@ -1,16 +1,16 @@
-# Ben Awad Merch Design
+# Ben Awad Merch Design Submission
 
-## Back
+## Option 1: Logo on Front
 
-<img src="/BenFaang/backWithAngular.png" width="700"/>
+<img src="/BenFaang/logoFront.png" width="500"/>
 
-## Front
+## Option 2: Logo on Back
 
-<img src="/BenFaang/front.png" width="500"/>
+<img src="/BenFaang/backWithAngular.png" width="600"/>
 
 ## Full img of logo
 
-<img src="/BenFaang/faangWithAngular.png" width="1000"/>
+<img src="/BenFaang/faangWithAngular.png" width="700"/>
 
 ## Angular Logo
 
