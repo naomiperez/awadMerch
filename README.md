@@ -1,4 +1,4 @@
-# Ben Awad Merch Design
+# Ben Awad Merch Design Submission
 
 ## Option 1: Logo on Front
 
