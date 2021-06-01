@@ -2,11 +2,11 @@
 
 ## Option 1: Logo on Front
 
-<img src="/BenFaang/logoFront.png" width="700"/>
+<img src="/BenFaang/logoFront.png" width="600"/>
 
 ## Option 2: Logo on Back
 
-<img src="/BenFaang/backWithAngular.png" width="700"/>
+<img src="/BenFaang/backWithAngular.png" width="600"/>
 
 ## Full img of logo
 
