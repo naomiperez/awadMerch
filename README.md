@@ -10,7 +10,7 @@
 
 ## Full img of logo
 
-<img src="/BenFaang/faangWithAngular.png" width="700"/>
+<img src="/BenFaang/faangWithAngular.png" width="1000"/>
 
 ## Angular Logo
 
