@@ -3,6 +3,7 @@
 ## Option 1: Logo on Front
 
 <img src="/BenFaang/logoFront.png" width="500"/>
+<img src="/BenFaang/logoFrontZoom.png" width="400"/>
 
 ## Option 2: Logo on Back
 
